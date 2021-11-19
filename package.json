@@ -1,7 +1,7 @@
 {
   "name": "tacoTuesday",
   "version": "1.0.0",
-  "description": "",
+  "description": "function to check if it's taco tuesday",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
